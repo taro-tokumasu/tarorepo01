@@ -12082,11 +12082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tokumasu\\source\\repos\\TokumasuStudying\\TokumasuStudying\\TokumasuStudying.csproj",
+      "projectUniqueName": "C:\\Users\\tokumasu\\Documents\\tarorepo01\\TokumasuStudying\\TokumasuStudying\\TokumasuStudying.csproj",
       "projectName": "TokumasuStudying",
-      "projectPath": "C:\\Users\\tokumasu\\source\\repos\\TokumasuStudying\\TokumasuStudying\\TokumasuStudying.csproj",
+      "projectPath": "C:\\Users\\tokumasu\\Documents\\tarorepo01\\TokumasuStudying\\TokumasuStudying\\TokumasuStudying.csproj",
       "packagesPath": "C:\\Users\\tokumasu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tokumasu\\source\\repos\\TokumasuStudying\\TokumasuStudying\\obj\\",
+      "outputPath": "C:\\Users\\tokumasu\\Documents\\tarorepo01\\TokumasuStudying\\TokumasuStudying\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
